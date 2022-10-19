@@ -1,4 +1,5 @@
-// Perform QUICK SORT
+// RECURSION
+// QUICK SORT
 
 #include <iostream>
 using namespace std;
